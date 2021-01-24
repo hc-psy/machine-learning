@@ -1,6 +1,17 @@
 # Machine Learning Foundations/Techniques
 Implementations of some machine learning algorithms required by the two NTU courses (ML foundations/techniques) lectured by Hsuan-Tien Lin 2020. Also, Latex-based handwritten homework is included.
 
-## Scores
+## Main implementations
 
-A
+* Perceptron learning algorithm
+* Decision Stump
+* Non-linear SGD
+* Regularization and cross-validation
+* Support vector machine
+* Random forest
+* Neural network
+* XGBoost
+
+## Others
+
+(note that grade = A)
